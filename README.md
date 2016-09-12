@@ -16,7 +16,9 @@
 2. `npm install`
 3. `npm install -g webpack`
 4. `npm install less`
-3. run `webpack --watch`
+3. `webpack --watch`
+4. Open app/index.html
+5. PROFIT!
 
 ### Go to work!
 
